@@ -1005,6 +1005,7 @@
   * [Check Pangram](strings/check_pangram.py)
   * [Credit Card Validator](strings/credit_card_validator.py)
   * [Detecting English Programmatically](strings/detecting_english_programmatically.py)
+  * [Dna](strings/dna.py)
   * [Frequency Finder](strings/frequency_finder.py)
   * [Hamming Distance](strings/hamming_distance.py)
   * [Indian Phone Validator](strings/indian_phone_validator.py)
